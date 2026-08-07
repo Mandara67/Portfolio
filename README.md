@@ -6,6 +6,7 @@ Please find my resume in the Resume folder.
 
 # About Me
 Master of Data Science at The University of Queensland, Brisbane, Australia | AI Engineer
+
 Interested in:
 1. Agentic AI
 2. Enterprise RAG
